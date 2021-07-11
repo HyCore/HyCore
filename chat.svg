@@ -299,9 +299,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I’m a cybersecurity analyst. I at the Univeristy Of Nancy,</text>
-    <text x="15" y="50">but I’ve been at ShulkerRoad for about 6 months now.</text>
+    <rect width="465" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I’m a cybersecurity analyst. I'm at the Univeristy Of Nancy,</text>
+    <text x="15" y="50">and I’ve been at ShulkerRoad for about 6 months now.</text>
   </g>
 
   <!-- typing 4 -->
