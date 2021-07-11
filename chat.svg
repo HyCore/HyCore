@@ -272,7 +272,7 @@
 
   </g>
 
-  <!-- From Columbus... -->
+  <!-- From France... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in France, where it’s supposed to be</text>
@@ -298,7 +298,7 @@
   </g>
 
   <!-- Work ... -->
-  <g transform="translate(10, 120)" class="msg-3">
+  <g transform="translate(10, 140)" class="msg-3">
     <rect width="465" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a cybersecurity analyst. I'm at the Univeristy Of Nancy,</text>
     <text x="15" y="50">and I’ve been at ShulkerRoad for about 6 months now.</text>
@@ -322,7 +322,7 @@
 
   </g>
 
-  <!-- Twitter -->
+  <!-- Linkedin -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="513" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
